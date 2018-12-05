@@ -10,8 +10,9 @@ MSYや管理目標を見据えた資源管理について，特に科学的な�
    - 水産庁の新しい管理政策に対して水研機構がどう対応するのか，一般向けにまとめられています
    - MSYと管理目標については4-9ページ目で解説しています
 
-## MSYについてのFAQ (issueのほうとリンクする予定です)
-- issue
+## MSYについてのFAQ (issueとリンクします)
+- MSYって何？　https://github.com/ichimomo/MSY-Open-Forum/issues/1#issue-387570370
+- 
 
 ## 科学論文
 
