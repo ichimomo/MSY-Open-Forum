@@ -10,8 +10,7 @@ MSYなどについてなにかご質問ありましたらIssuesのほうに書�
    - http://www.fra.affrc.go.jp/bulletin/news/fnews56.pdf
    - 水産庁の新しい管理政策に対して水研機構がどう対応するのか，一般向けにまとめられています
    - MSYと管理目標については4-9ページ目で解説しています
-- 水産経済新聞
-   - [2019年1月1日号] (http://www.suikei.co.jp/%EF%BC%9C%E6%99%82%E4%BB%A3%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E3%83%BB%E8%B3%87%E6%BA%90%E7%AE%A1%E7%90%86%EF%BC%9E%EF%BD%8D%EF%BD%93%EF%BD%99%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%82%E3%81%AB%EF%BC%9F/?fbclid=IwAR3S4QjVIzOaqUTi0DxR3UXklH17by7pB4d8FBdBE58m4OXxgXUm7yTi-qA)
+- 水産経済新聞 [＜時代が変わる・資源管理＞ＭＳＹってなあに？] (http://www.suikei.co.jp/%EF%BC%9C%E6%99%82%E4%BB%A3%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E3%83%BB%E8%B3%87%E6%BA%90%E7%AE%A1%E7%90%86%EF%BC%9E%EF%BD%8D%EF%BD%93%EF%BD%99%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%82%E3%81%AB%EF%BC%9F/?fbclid=IwAR3S4QjVIzOaqUTi0DxR3UXklH17by7pB4d8FBdBE58m4OXxgXUm7yTi-qA)
    - 記事の利用許可をいただきましたので、[こちら](https://github.com/ichimomo/MSY-Open-Forum/blob/master/190101-05_%E8%B3%87%E6%BA%90%E7%AE%A1%E7%90%86%E6%95%99%E5%AE%A4.pdf) から記事全文も見れます
    
 - 世界における資源評価・管理の現状をわかりやすく解説した名著の和訳です
