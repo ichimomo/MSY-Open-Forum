@@ -1,13 +1,13 @@
 # MSY-Open-Forum
-MSYや管理目標を見据えた資源管理について，特に科学的な最新の研究成果について情報交換する場です.
-MSYなどについてなにかご質問ありましたらIssuesのほうに書き込んでください（で，誰か知っている人いましたら答えてください）．または，情報提供していただける場合もIssueに書き込んで頂ければと思います．実名での書き込みを推奨します．
+- MSYや管理目標を見据えた資源管理について，特に科学的な最新の研究成果について情報交換する場です.
+- MSYなどについてなにかご質問ありましたらIssuesのほうに書き込んでください（で，誰か知っている人いましたら答えてください）．または，情報提供していただける場合もIssueに書き込んで頂ければと思います．実名での書き込みを推奨します．
+- [本ページのwebサイト版](https://ichimomo.github.io/MSY-Open-Forum/)
 
 ## MSYや世界の資源管理についての日本語解説
 - 月刊海洋特集号「管理目標を見据えた我が国の新しい資源評価と管理」
-   - http://cse.fra.affrc.go.jp/ichimomo/MSY.html　(左記のURLより全文PDFをダウンロードできます)
+   - [ここ](http://cse.fra.affrc.go.jp/ichimomo/MSY.html)から全文PDFをダウンロードできます
    - 2017年4月に開催した管理目標に関するシンポジウムの講演内容をまとめたものです
-- FRAニュース56号
-   - http://www.fra.affrc.go.jp/bulletin/news/fnews56.pdf
+- [FRAニュース56号](http://www.fra.affrc.go.jp/bulletin/news/fnews56.pdf)
    - 水産庁の新しい管理政策に対して水研機構がどう対応するのか，一般向けにまとめられています
    - MSYと管理目標については4-9ページ目で解説しています
 - 水産経済新聞 [＜時代が変わる・資源管理＞ＭＳＹってなあに？] (http://www.suikei.co.jp/%EF%BC%9C%E6%99%82%E4%BB%A3%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%E3%83%BB%E8%B3%87%E6%BA%90%E7%AE%A1%E7%90%86%EF%BC%9E%EF%BD%8D%EF%BD%93%EF%BD%99%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%82%E3%81%AB%EF%BC%9F/?fbclid=IwAR3S4QjVIzOaqUTi0DxR3UXklH17by7pB4d8FBdBE58m4OXxgXUm7yTi-qA)
@@ -18,15 +18,10 @@ MSYなどについてなにかご質問ありましたらIssuesのほうに書�
 
 
 ## MSYについてのFAQのまとめ　(issueとリンクします)
-- MSYって何？　https://github.com/ichimomo/MSY-Open-Forum/issues/1#issue-387570370
-- 
+- MSYって何？　[github-issue](https://github.com/ichimomo/MSY-Open-Forum/issues/1#issue-387570370) 
 
 ## 主要な科学論文 
-- wikiを作りました
-https://github.com/ichimomo/MSY-Open-Forum/wiki/MSY%E6%A6%82%E5%BF%B5%E3%81%AB%E3%81%BE%E3%81%A4%E3%82%8F%E3%82%8B%E7%A7%91%E5%AD%A6%E8%AB%96%E6%96%87%E3%83%A1%E3%83%A2
-
-
-
+- [wiki] (https://github.com/ichimomo/MSY-Open-Forum/wiki/MSY%E6%A6%82%E5%BF%B5%E3%81%AB%E3%81%BE%E3%81%A4%E3%82%8F%E3%82%8B%E7%A7%91%E5%AD%A6%E8%AB%96%E6%96%87%E3%83%A1%E3%83%A2)
 
 
 
